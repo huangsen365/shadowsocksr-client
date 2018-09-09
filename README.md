@@ -1,0 +1,2 @@
+# shadowsocksr-client
+shadowsocksr client
