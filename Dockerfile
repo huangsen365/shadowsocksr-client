@@ -23,7 +23,6 @@ ARG WORK=~
 
 RUN apk --no-cache add python \
     libsodium \
-    telnet \
     curl \
     wget
 
