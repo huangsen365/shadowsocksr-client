@@ -1,4 +1,5 @@
-# shadowsocksr-client
+# shadowsocksr-client, download below Dockerfile and guild the image
+# https://github.com/huangsen365/shadowsocksr-client/blob/master/Dockerfile
 shadowsocksr client
 
 docker build -t huangsen365/shadowsocksr-client .
